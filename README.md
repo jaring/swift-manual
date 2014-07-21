@@ -21,7 +21,7 @@ CocoaChina精校PDF→[点我下载](http://vdisk.weibo.com/s/EhsPPzRRQ5CZ/14026
 
 文章已经全部翻译完成，当前阶段为自由校对阶段，可以随意提issue和pr。
 
-
+# git 
 # 译者记录
 
 * 欢迎使用 Swift
